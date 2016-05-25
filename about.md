@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[Growstuff](http://growstuff.org) is a community of food gardeners. We're building an open source platform to help you learn about growing food, track what you plant and harvest, and swap seeds and produce with other gardeners near you.
 
-### More Information
+### Join us!
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can contribute your ideas [on our Talk page](http://talk.growstuff.org) or code and documentation [on our GitHub](http://github.com/growstuff/growstuff).
