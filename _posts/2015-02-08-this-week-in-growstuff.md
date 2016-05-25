@@ -1,8 +1,7 @@
 ---
 published: true
+title: This Week in Growstuff
 ---
-# THIS WEEK IN GROWSTUFF (FEBRUARY 8TH, 2015)
-
 Here’s a roundup of what’s been happening in the world of Growstuff over the last week or so.
 
 ## Our new advisory board
