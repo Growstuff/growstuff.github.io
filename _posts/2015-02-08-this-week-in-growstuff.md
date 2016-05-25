@@ -1,6 +1,7 @@
 ---
 published: true
 title: This Week in Growstuff
+layout: post
 ---
 Here’s a roundup of what’s been happening in the world of Growstuff over the last week or so.
 
