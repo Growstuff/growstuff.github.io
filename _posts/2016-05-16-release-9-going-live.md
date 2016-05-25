@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Release 9 Going Live
 
